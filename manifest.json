@@ -1,2 +1,8 @@
 {
+  "updater": {
+    "version": "1.0.0",
+    "url": "https://github.com/SketchThisNET/SketchThis-releases/releases/download/updater-v1.0.0/SketchThisUpdater_v1.0.0.rbz",
+    "sha256": "f93e6bcd5c2d34601febc9963d3751c35a86cf10d67796ad449646f3530954f6",
+    "notes": "First release of the SketchThis Updater."
+  }
 }
