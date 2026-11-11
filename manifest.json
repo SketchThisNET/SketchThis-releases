@@ -4,5 +4,11 @@
     "url": "https://github.com/SketchThisNET/SketchThis-releases/releases/download/updater-v1.0.0/SketchThisUpdater_v1.0.0.rbz",
     "sha256": "f93e6bcd5c2d34601febc9963d3751c35a86cf10d67796ad449646f3530954f6",
     "notes": "First release of the SketchThis Updater."
+  },
+  "plugin": {
+    "version": "3.1.2",
+    "url": "https://github.com/SketchThisNET/SketchThis-releases/releases/download/plugin-v3.1.2/SketchThis_v3.1.2.rbz",
+    "sha256": "8afb4b697ef0c17eb2daaf4b40e63930f0d20e260cad631e4f8377e7af45e6db",
+    "notes": "Fixes and changes from the Extension Warehouse review."
   }
 }
